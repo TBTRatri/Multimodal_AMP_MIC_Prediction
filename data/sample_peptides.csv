@@ -1,0 +1,5 @@
+sequence,species,species_id,actual_log_mic
+KKRRWFWLEARPRRWLFWTERS,Escherichia coli,0,0.371
+IWITTFLDKQLGLPTVGNWAHLKKGGLKHI,Escherichia coli,0,0.415
+KGKLWKNIWKLAKMFNRWMAEFQS,Staphylococcus aureus,1,0.453
+KKKLRKRIRRWRSEFVDIAVVI,Pseudomonas aeruginosa,2,0.539
